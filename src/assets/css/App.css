@@ -1,0 +1,29 @@
+body {
+	background-color: rgb(250, 236, 217);
+	color: black;
+	font-family: 'Hind Siliguri', sans-serif;
+}
+
+p {
+	font-size: 0.9em;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+i.fab {
+	font-size: 1.5em;
+}
+
+i.fas {
+	font-size: 1.5em;
+}
+
+button i.fas {
+	font-size: 1em;
+}
+
+button {
+	font-size: 0.7em;
+}
