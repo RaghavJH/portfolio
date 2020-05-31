@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/www.jhavar.net/static/css/main.bf900766.chunk.css",
-    "main.js": "/www.jhavar.net/static/js/main.e64298d3.chunk.js",
-    "main.js.map": "/www.jhavar.net/static/js/main.e64298d3.chunk.js.map",
-    "runtime-main.js": "/www.jhavar.net/static/js/runtime-main.6e6bf54a.js",
-    "runtime-main.js.map": "/www.jhavar.net/static/js/runtime-main.6e6bf54a.js.map",
-    "static/js/2.d755492c.chunk.js": "/www.jhavar.net/static/js/2.d755492c.chunk.js",
-    "static/js/2.d755492c.chunk.js.map": "/www.jhavar.net/static/js/2.d755492c.chunk.js.map",
-    "index.html": "/www.jhavar.net/index.html",
-    "precache-manifest.2e22593e334c3e4b0b083508a07d8704.js": "/www.jhavar.net/precache-manifest.2e22593e334c3e4b0b083508a07d8704.js",
-    "service-worker.js": "/www.jhavar.net/service-worker.js",
-    "static/css/main.bf900766.chunk.css.map": "/www.jhavar.net/static/css/main.bf900766.chunk.css.map",
-    "static/js/2.d755492c.chunk.js.LICENSE.txt": "/www.jhavar.net/static/js/2.d755492c.chunk.js.LICENSE.txt",
-    "static/media/0.jpg": "/www.jhavar.net/static/media/0.0cdf7694.jpg",
-    "static/media/resume.pdf": "/www.jhavar.net/static/media/resume.418e99f2.pdf"
+    "main.css": "/static/css/main.bf900766.chunk.css",
+    "main.js": "/static/js/main.bd4fcd97.chunk.js",
+    "main.js.map": "/static/js/main.bd4fcd97.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e341ab16.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e341ab16.js.map",
+    "static/js/2.d755492c.chunk.js": "/static/js/2.d755492c.chunk.js",
+    "static/js/2.d755492c.chunk.js.map": "/static/js/2.d755492c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3544ff843746e088d86dd431d474b762.js": "/precache-manifest.3544ff843746e088d86dd431d474b762.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bf900766.chunk.css.map": "/static/css/main.bf900766.chunk.css.map",
+    "static/js/2.d755492c.chunk.js.LICENSE.txt": "/static/js/2.d755492c.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/static/media/0.0cdf7694.jpg",
+    "static/media/resume.pdf": "/static/media/resume.418e99f2.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e6bf54a.js",
+    "static/js/runtime-main.e341ab16.js",
     "static/js/2.d755492c.chunk.js",
     "static/css/main.bf900766.chunk.css",
-    "static/js/main.e64298d3.chunk.js"
+    "static/js/main.bd4fcd97.chunk.js"
   ]
 }
